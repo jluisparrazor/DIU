@@ -38,7 +38,11 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Algunas caracteristicas que hemos tenido en cuenta para comparar han sido:
+>>> -Interactividad de la pagina, entendiendo esto como lo interactiva que es la página para el usuario.
+>>> -Inscripción, es decir, la facilidad del usuario para poder acceder e inscribirse a los cursos que ofrecen.
+>>> -Soporte de usuario. Para valorar esto hemos tenido en cuenta la facilidad del usuario para acceder a redes sociales o para contactar con la escuela a traves del telefono o el correo
+>>> -Personalización de la experiencia, que significa la capacidad de crearte un perfil para tener un acceso mas personal a la página.  
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
