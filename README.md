@@ -48,6 +48,7 @@ Miembros
 -----
 
 >>> Para está práctica hemos elegido estas dos personas con el fin de intentar abarcar distintas edades, culturas,  ocupaciones y razones por las que apuntarse al teatro, pero a la vez no ampliar mucho las necesidades para poder centrarnos en ambos y que siga siendo funcional. Las dos personas que hemos creado tienen realmente el mismo objetivo, pasar un buen rato con gente con gustos similares, solo que Jimena lo hace para mejorar en el ámbito laboral y Giuseppe busca más conocer amigos que pueda mantener y ocupar el tiempo libre.
+
 ![Persona1](P1/3.Personas/Persona1.png)
 ![Persona2](P1/3.Personas/Persona2.png)
 
@@ -55,7 +56,10 @@ Miembros
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
+
+![JourneyMap1](P1/4.Journey_Map/JourneyMap1.png)
+![JourneyMap2](P1/4.Journey_Map/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
