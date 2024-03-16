@@ -47,8 +47,9 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
-![Persona1](P1/3.Personas/Persona2.png)
+>>> Para está práctica hemos elegido estas dos personas con el fin de intentar abarcar distintas edades, culturas,  ocupaciones y razones por las que apuntarse al teatro, pero a la vez no ampliar mucho las necesidades para poder centrarnos en ambos y que siga siendo funcional. Las dos personas que hemos creado tienen realmente el mismo objetivo, pasar un buen rato con gente con gustos similares, solo que Jimena lo hace para mejorar en el ámbito laboral y Giuseppe busca más conocer amigos que pueda mantener y ocupar el tiempo libre.
+![Persona1](P1/3.Personas/Persona1.png)
+![Persona2](P1/3.Personas/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
