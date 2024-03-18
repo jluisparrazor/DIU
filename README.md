@@ -33,7 +33,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Nos centramos en la creación de una página web dedicada al teatro amateur. Nuestro propósito es aumentar la visibilidad en Granada y convertirnos en un referente regional en Andalucía. Para ello tenemos como objetivo hacer crecer los ingresos y clientes, además de fidelizar a los clientes que ya tenemos. Se utilizarán métodos de investigación primaria, como análisis de competidores, mapas de viaje y revisiones de usabilidad. Los temas de investigación incluyen la experiencia previa con el teatro, intereses y motivaciones, y preferencias de contenido. Aunque no tenemos experiencia directa con el teatro, hemos creado dos perfiles ficticios de personas para guiarnos mejor en esta investigación.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -56,7 +56,7 @@ Miembros
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
+>>> Hemos elegido estos dos casos de estudio porque creemos que es el mayor punto débil de la página web, ya que al final el propósito es vender, y lo que más se nos dificulta a la hora de usarla es el momento de inscribirse en una actividad. En primer lugar no queda claro como se puede inscribir uno en una actividad, y por otro lado el formulario no es del todo claro porque no se entiende para qué casos se puede usar y como y cuando se va a recibir respuesta.
 
 ![JourneyMap1](P1/4.Journey_Map/JourneyMap1.png)
 ![JourneyMap2](P1/4.Journey_Map/JourneyMap2.png)
