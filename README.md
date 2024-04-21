@@ -66,7 +66,7 @@ Miembros
 
 
 >>> - Enlace al documento: [Usability_Review](P1/5.Usability_Review/Usability-review.pdf)
->>> - Valoración final (numérica): 73- Good
+>>> - Valoración final (numérica): 56 - Moderate
 >>> - Comentario sobre la valoración: Estamos de acuerdo con esta valoración ya que aunque haya algunas partes que mejoramos, generalmente son elementos estéticos y visuales. La página como tal no tiene un gran número de errores ni le faltan muchos elementos. Lo que más hemos echado en falta era un poco más de personalización de la experiencia, ya sea con un inicio de sesión más general, y no solo en la tienda o con elementos de búsqueda en la página para poder acceder más fácilmente a lo que el usuario busca
 
 
