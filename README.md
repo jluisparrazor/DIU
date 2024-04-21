@@ -105,11 +105,28 @@ Miembros
 ----
 ![ScopeCanvas](P2/4.ArquitecturaDeInformación/sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+|Tareas / Perfiles de Usuario|Turismo General|
+|:----|:----|
+|Buscar información sobre los productos disponibles|Media|
+|Consultar información sobre los artesanos|Baja|
+|Ver precios de los productos|Media|
+|Realizar una reserva para una visita al taller|Alta|
+|Contactar con los artesanos para hacer preguntas o solicitar información adicional|Baja|
+|Conocer la ubicación del taller y la forma de llegar|Alta|
+|Ver fotos y vídeos de los productos y el taller|Media|
+|Leer comentarios y reseñas de otros clientes|Alta|
+|Dejar comentarios y reseñas sobre la experiencia de productos y el taller|Alta|
+|Conocer los horarios de apertura y cierre|Alta|
+|Descargar catálogos o folletos de los productos|Media|
+|Conocer las políticas de devolución y garantía|Media|
+|Conocer la historia y la filosofía del taller|Media|
+|Realizar compras en línea|Baja|
+|Ver información sobre eventos y talleres especiales |Baja|
+|Hacer una reserva para un evento o taller especial |Baja|
+|Conocer las opciones de transporte para llegar al taller|Alta|
+|Conocer los lugares turísticos cercanos al taller|Alta|
+|Conocer los lugares de ocio cercanos al taller|Alta|
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
