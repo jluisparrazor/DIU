@@ -103,7 +103,7 @@ Miembros
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+![ScopeCanvas](P2/4.ArquitecturaDeInformación/sitemap.drawio.png)
 
 >>> Identificar términos para diálogo con usuario  
 
