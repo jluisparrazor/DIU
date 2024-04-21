@@ -105,27 +105,33 @@ Miembros
 ----
 ![ScopeCanvas](P2/4.ArquitecturaDeInformación/sitemap.png)
 
-|Tareas / Perfiles de Usuario|Turismo General|
+|Label|Scope Note|
 |:----|:----|
-|Buscar información sobre los productos disponibles|Media|
-|Consultar información sobre los artesanos|Baja|
-|Ver precios de los productos|Media|
-|Realizar una reserva para una visita al taller|Alta|
-|Contactar con los artesanos para hacer preguntas o solicitar información adicional|Baja|
-|Conocer la ubicación del taller y la forma de llegar|Alta|
-|Ver fotos y vídeos de los productos y el taller|Media|
-|Leer comentarios y reseñas de otros clientes|Alta|
-|Dejar comentarios y reseñas sobre la experiencia de productos y el taller|Alta|
-|Conocer los horarios de apertura y cierre|Alta|
-|Descargar catálogos o folletos de los productos|Media|
-|Conocer las políticas de devolución y garantía|Media|
-|Conocer la historia y la filosofía del taller|Media|
-|Realizar compras en línea|Baja|
-|Ver información sobre eventos y talleres especiales |Baja|
-|Hacer una reserva para un evento o taller especial |Baja|
-|Conocer las opciones de transporte para llegar al taller|Alta|
-|Conocer los lugares turísticos cercanos al taller|Alta|
-|Conocer los lugares de ocio cercanos al taller|Alta|
+|Página Principal|Página principal con acceso a las funcionalidades más importantes del sitio. |
+|Torneos|Página donde se muestran los torneos que ofrecemos.|
+|Inscribirse|Al seleccionar un torneo, poder inscribirse en él.|
+|Pagar inscripción|Al inscribirse en un torneo, pagar la inscripción.|
+|Calendario Torneos|Página para mostrar un calendario con los torneos disponibles.|
+|Consultar opiniones|Página con opiniones sobre nuestros torneos.|
+|Buscar|Buscar torneos a través de filtros (por categorías, fechas, precio).|
+|Tienda|Página donde visualizar los productos que se venden.|
+|Comprar producto|Al seleccionar un producto, poder comprarlo si estás registrado.|
+|Vender producto|Poder vender tus propios productos si estás registrado.|
+|Buscar|Buscar productos según distintos filtros (categoría, precio).|
+|Cuenta|Página donde poder registrarse o iniciar sesión en nuestra página.|
+|Iniciar Sesión|Poder iniciar sesión si ya tienes una cuenta.|
+|Registrarse|Poder registrarse si no tienes una cuenta.|
+|Mis comentarios|Página donde poder visualizar todos los comentarios que has realizado en la página.|
+|Mis ventas|Página donde poder visualizar todos los productos que has puesto en ventas, antiguos o actuales.|
+|Mis torneos|Página donde poder visualizar todos los torneos en los que has participado, con tu ranking.|
+|Perfil|Página donde poder visualizar los datos acerca de nuestro usuario (nombre, correo, contraseña, número de teléfono).|
+|Modificar datos|Poder modificar los datos actuales así como añadir algún campo opcional que no estuviese completado.|
+|Cerrar sesión|Poder cerrar sesión de tu cuenta.|
+|Sobre Nosotros|Página donde encontrar toda la información sobre nuestro club, además de una breve descripción.|
+|Preguntas frecuentes|Sección donde poder encontrar algunas preguntas frecuentes que hacen los usuarios con sus respectivas respuestas.|
+|Donde nos encontramos|Sección donde encontrar la dirección del club, además de un mapa para poder visualizarlo más claramente.|
+|Contacto|Sección donde encontrar los diferentes contactos, como el teléfono o las redes sociales |
+|Valoraciones|Sección donde encontrar las valoraciones sobre nuestro club, y poder valorarla.|
 
 
 
