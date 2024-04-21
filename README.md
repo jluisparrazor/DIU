@@ -97,7 +97,16 @@ Miembros
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
+|Tareas | Jovenes Granadinos|Gente de fuera de granada|Adultos mayores (+60)|Amantes de los juegos|
+|:----|:----|:----|:----|:----|
+|Encontrar la ubicación del club|L|H|M|M|
+|Acceder a un calendario de torneos|H|L|M|H|
+|Acceder a la tienda de juegos de mesa|H|L|L|H|
+|Comprar productos de la tienda|H|M|L|H|
+|Acceder a un menú con todos los servicios que ofrece el club|M|H|L|M|
+|Inscribirse en torneos de forma fácil e intuitiva|M|L|M|H|
+|Contar su experiencia en los diferentes torneos|M|L|L|H|
+|Visualizar videos sobre las actividades que se realizan en el club|M|H|L|M|
 >>> Definir "User Map" y "Task Flow" ... 
 
 
