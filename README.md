@@ -96,6 +96,9 @@ Miembros
 >>> Para nuestro proyecto, hemos pensado un club de juegos de mesa donde las personas se puedan sentir agusto en un ambiente cercano, conociendo gente con gustos parecidos con los que compartir esta afición por los juegos de mesa. Ademas, nuestro objetivo es hacernos conocer en toda España como uno de los clubs de juegos de mesa más famosos, ofreciendo tanto torneos dentro del club como fuera del mismo con otros clubs de juegos de mesa y una tienda en la que podamos ofrecer nuestros productos a la vez que los socios puedan comprarlos o vender sus propios productos. Junto a los productos y servicios, queremos ofrecer una sección de comentarios y valoraciones tanto de unos como de otros para mostrar las opiniones de los clientes acerca de nuestro club.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
+![UserFlow1](P2/3.TaskAnalysis/UserFlow1.png)
+![UserFlow2](P2/3.TaskAnalysis/UserFlow2.png)
+![UserFlow3](P2/3.TaskAnalysis/UserFlow3.png)
 -----
 |Tareas | Jovenes Granadinos|Gente de fuera de granada|Adultos mayores (+60)|Amantes de los juegos|
 |:----|:----|:----|:----|:----|
@@ -112,7 +115,7 @@ Miembros
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-![ScopeCanvas](P2/3.ArquitecturaDeInformacion/sitemap.png)
+![Sitemap](P2/4.ArquitecturaDeInformacion/Sitemap.png)
 
 |Label|Scope Note|
 |:----|:----|
