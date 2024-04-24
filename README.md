@@ -119,31 +119,31 @@ Miembros
 
 |Label|Scope Note|
 |:----|:----|
-|Página Principal|Página principal con acceso a las funcionalidades más importantes del sitio. |
-|Torneos|Página donde se muestran los torneos que ofrecemos.|
-|Inscribirse|Al seleccionar un torneo, poder inscribirse en él.|
-|Pagar inscripción|Al inscribirse en un torneo, pagar la inscripción.|
-|Calendario Torneos|Página para mostrar un calendario con los torneos disponibles.|
-|Consultar opiniones|Página con opiniones sobre nuestros torneos.|
+|Inicio|Página principal con acceso a las funcionalidades más importantes del sitio. |
+|Torneos|Página donde se muestra lo relacionado con los torneos.|
+|Inscribirse|Al seleccionar un torneo, página donde inscribirse en él.|
+|Pagar inscripción|Al inscribirse en un torneo, página de pago de la inscripción.|
+|Calendario Torneos|Sección de la página torneos para mostrar un calendario con los torneos disponibles.|
+|Consultar opiniones|Sección de la página torneos con opiniones sobre nuestros torneos.|
 |Buscar|Buscar torneos a través de filtros (por categorías, fechas, precio).|
+|Info Torneos|Sección de la página torneos donde visualizamos la información de cada torneo.|
 |Tienda|Página donde visualizar los productos que se venden.|
-|Comprar producto|Al seleccionar un producto, poder comprarlo si estás registrado.|
-|Vender producto|Poder vender tus propios productos si estás registrado.|
+|Cesta|Al seleccionar todos los productos que quieres, página donde visualizar tu lista de compra.|
+|Productos|Sección de la página tienda donde visualizar los productos.|
 |Buscar|Buscar productos según distintos filtros (categoría, precio).|
 |Cuenta|Página donde poder registrarse o iniciar sesión en nuestra página.|
 |Iniciar Sesión|Poder iniciar sesión si ya tienes una cuenta.|
 |Registrarse|Poder registrarse si no tienes una cuenta.|
 |Mis comentarios|Página donde poder visualizar todos los comentarios que has realizado en la página.|
-|Mis ventas|Página donde poder visualizar todos los productos que has puesto en ventas, antiguos o actuales.|
 |Mis torneos|Página donde poder visualizar todos los torneos en los que has participado, con tu ranking.|
 |Perfil|Página donde poder visualizar los datos acerca de nuestro usuario (nombre, correo, contraseña, número de teléfono).|
-|Modificar datos|Poder modificar los datos actuales así como añadir algún campo opcional que no estuviese completado.|
+|Modificar datos|Página donde modificar los datos actuales así como añadir algún campo opcional que no estuviese completado.|
 |Cerrar sesión|Poder cerrar sesión de tu cuenta.|
 |Sobre Nosotros|Página donde encontrar toda la información sobre nuestro club, además de una breve descripción.|
-|Preguntas frecuentes|Sección donde poder encontrar algunas preguntas frecuentes que hacen los usuarios con sus respectivas respuestas.|
-|Donde nos encontramos|Sección donde encontrar la dirección del club, además de un mapa para poder visualizarlo más claramente.|
-|Contacto|Sección donde encontrar los diferentes contactos, como el teléfono o las redes sociales |
-|Valoraciones|Sección donde encontrar las valoraciones sobre nuestro club, y poder valorarla.|
+|Preguntas frecuentes|Sección de la página Sobre Nosotros donde poder encontrar algunas preguntas frecuentes que hacen los usuarios con sus respectivas respuestas.|
+|Donde nos encontramos|Sección de la página Sobre Nosotros  donde encontrar la dirección del club, además de un mapa para poder visualizarlo más claramente.|
+|Contacto|Sección de la página Sobre Nosotros  donde encontrar los diferentes contactos, como el teléfono o las redes sociales.|
+|Valoraciones|Sección de la página Sobre Nosotros  donde encontrar las valoraciones sobre nuestro club, y poder valorarla.|
 
 
 
