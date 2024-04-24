@@ -112,7 +112,7 @@ Miembros
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-![ScopeCanvas](P2/4.ArquitecturaDeInformación/sitemap.png)
+![ScopeCanvas](P2/3.ArquitecturaDeInformacion/sitemap.png)
 
 |Label|Scope Note|
 |:----|:----|
