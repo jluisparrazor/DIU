@@ -150,7 +150,8 @@ Miembros
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![SimulacionTorneos](P2/5.Prototipo/torneos.png)
+![SimulacionInfoTorneos](P2/5.Prototipo/infotorneos.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
