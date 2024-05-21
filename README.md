@@ -5,7 +5,7 @@ Grupo: DIU1.OlivasAndaluzas  Curso: 2023/24
 Updated: 10/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Mundo del Tablero
 
 Descripción: 
 
