@@ -181,7 +181,7 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+https://www.figma.com/proto/zP4HDfFXl0xrYYd9M8lS0L/Aplicaci%C3%B3n-Mundo-del-Tablero?node-id=2-93&t=QAEkqCbW5d8wMAdw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
