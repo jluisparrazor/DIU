@@ -171,13 +171,12 @@ Miembros
 ----
 ![Landing_Page](P3/2.Landing_Page/Landing_Page.png)
 
->>> Plantear Landing Page 
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![Guideline](P3/3.Guidelines/Guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
