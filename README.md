@@ -167,7 +167,7 @@ Miembros
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
-----![Landing_Page](P3/2.Landing_Page/Landing_Page.jpg)
+----![Landing_Page](P3/2.Landing_Page/Landing_Page.png)
 
 >>> Plantear Landing Page 
 
