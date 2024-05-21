@@ -1,5 +1,5 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Teatro Escénico) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Club de Juegos de Mesa) 
 
 Grupo: DIU1.OlivasAndaluzas  Curso: 2023/24 
 Updated: 10/3/2024
@@ -33,7 +33,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Nos centramos en la creación de una página web dedicada al teatro amateur. Nuestro propósito es aumentar la visibilidad en Granada y convertirnos en un referente regional en Andalucía. Para ello tenemos como objetivo hacer crecer los ingresos y clientes, además de fidelizar a los clientes que ya tenemos. Se utilizarán métodos de investigación primaria, como análisis de competidores, mapas de viaje y revisiones de usabilidad. Los temas de investigación incluyen la experiencia previa con el teatro, intereses y motivaciones, y preferencias de contenido. Aunque no tenemos experiencia directa con el teatro, hemos creado dos perfiles ficticios de personas para guiarnos mejor en esta investigación.  
+>>> Nos centramos en la creación de una página web dedicada a los torneos de juegos de mesa. Nuestro propósito es aumentar la visibilidad en Granada y convertirnos en un referente regional en Andalucía. Para ello tenemos como objetivo hacer crecer los ingresos y clientes, además de fidelizar a los clientes que ya tenemos. Se utilizarán métodos de investigación primaria, como análisis de competidores, mapas de viaje y revisiones de usabilidad. Los temas de investigación incluyen la experiencia previa con el teatro, intereses y motivaciones, y preferencias de contenido. Aunque no tenemos experiencia directa con los torneos de juegos de mesa, hemos creado dos perfiles ficticios de personas para guiarnos mejor en esta investigación.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
