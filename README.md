@@ -214,6 +214,20 @@ Diseño del experimento
 Resultados y valoración 
 -----
 
+Mundo del Tablero
+-----
+
+>> Torneos: En este apartado, el punto de interés marcado por el usuario ha sido la sección de las instalaciones de la página principal, que ha sido el mayor foco de atención.
+
+![Resultado1](P4/2.EyeTracking/MundodelTablero/Torneos/1.png)
+
+>> General y Tienda:En este caso, el usuario ha marcado como punto de interés los artículos de la cesta, ya que destacan los artículos por la foto del artículo. 
+
+![Resultado2](P4/2.EyeTracking/ChessKing/GeneralTienda/4.png)
+
+Chess King
+-----
+
 >> Torneos: En este caso, el punto de interés ha sido la parte de torneo actual de la sección de torneos, donde el color de fondo junto a la imagen han llamado la atención del usuario.
 
 ![Resultado1](P4/2.EyeTracking/ChessKing/Torneos/2.png)
@@ -280,7 +294,13 @@ Resultados y valoración
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> Estas prácticas han sido sumamente enriquecedoras, proporcionando una cobertura exhaustiva de todo el proceso de diseño. Desde la primera práctica, centrada en el análisis, hasta la evaluación de la accesibilidad del proyecto una vez finalizado, hemos podido experimentar cada etapa del desarrollo de un proyecto de diseño. 
+
+>>>El uso de herramientas de diseño y prototipado, como Figma, ha sido particularmente beneficioso, permitiéndonos no solo desarrollar habilidades técnicas, sino también explorar nuestras capacidades creativas y de resolución de problemas. 
+
+>>>Además, la oportunidad de analizar proyectos de otros grupos y recibir retroalimentación sobre el nuestro ha sido inestimable. Esta dinámica de intercambio de ideas y críticas constructivas nos ha brindado nuevas perspectivas y nos ha permitido mejorar y refinar nuestros proyectos.
+
+>>>En resumen, estas prácticas no solo han sido educativas y completas, sino también muy interesantes y gratificantes.
 
 
 
