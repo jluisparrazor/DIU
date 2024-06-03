@@ -9,10 +9,12 @@ Mundo del Tablero
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Hemos desarrollado una aplicación móvil llamada Mundo del Tablero, dedicada a los juegos de mesa. Con esta app, los usuarios pueden participar en diversos torneos y adquirir una amplia variedad de juegos de mesa.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logo](P3/1.MoodBoard/logo.png)
+
 
 Miembros
  * :bust_in_silhouette:   Ana Isabel Mena Meseguer     :octocat:     
