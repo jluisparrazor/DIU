@@ -223,7 +223,7 @@ Mundo del Tablero
 
 >> General y Tienda:En este caso, el usuario ha marcado como punto de interés los artículos de la cesta, ya que destacan los artículos por la foto del artículo. 
 
-![Resultado2](P4/2.EyeTracking/ChessKing/GeneralTienda/4.png)
+![Resultado2](P4/2.EyeTracking/MundodelTablero/GeneralTienda/6.png)
 
 Chess King
 -----
