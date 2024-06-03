@@ -199,16 +199,15 @@ Miembros
 Exportación a HTML/Flutter
 -----
 
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method
+-----
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+>>> Para la realización de este experimento le hemos mostrado diferentes imágenes de las 2 apps a una amiga, la cual ha ido mirando a lo que más le llamaba la atención de la página.
 
 Diseño del experimento 
 ----
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
+![experimento](P4/2.EyeTracking/GazeRecorder.jpeg)  
 
 Resultados y valoración 
 -----
