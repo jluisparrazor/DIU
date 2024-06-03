@@ -2,14 +2,14 @@
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Club de Juegos de Mesa) 
 
 Grupo: DIU1.OlivasAndaluzas  Curso: 2023/24 
-Updated: 10/3/2024
+Updated: 3/6/2024
 
 Proyecto: 
 Mundo del Tablero
 
 Descripción: 
 
-Hemos desarrollado una aplicación móvil llamada Mundo del Tablero, dedicada a los juegos de mesa. Con esta app, los usuarios pueden participar en diversos torneos y adquirir una amplia variedad de juegos de mesa.
+>> Hemos desarrollado una aplicación móvil llamada Mundo del Tablero, dedicada a los juegos de mesa. Con esta app, los usuarios pueden participar en diversos torneos y adquirir una amplia variedad de juegos de mesa.
 
 Logotipo: 
 
