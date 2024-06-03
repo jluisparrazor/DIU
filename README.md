@@ -261,7 +261,7 @@ Resultados y valoración
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-![Usability Report](P4/4.UsabilityReport/UsabilityReport.pdf)
+[Usability Report](P4/4.UsabilityReport/UsabilityReport.pdf)
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
