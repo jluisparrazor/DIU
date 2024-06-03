@@ -181,7 +181,9 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-https://www.figma.com/proto/zP4HDfFXl0xrYYd9M8lS0L/Aplicaci%C3%B3n-Mundo-del-Tablero?node-id=2-93&t=QAEkqCbW5d8wMAdw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
+([Nuestro Proyecto](https://www.figma.com/proto/zP4HDfFXl0xrYYd9M8lS0L/Aplicaci%C3%B3n-Mundo-del-Tablero?node-id=2-93&t=QAEkqCbW5d8wMAdw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2))
+
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -232,7 +234,8 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>>Esta app consiste en un club VIP de torneos de juegos de mesa. Además, también podemos consultar el ranking actual de ganadores, una tienda online de productos, una sección para visualizar las instalaciones y otra sección sobre información acerca del club.
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
