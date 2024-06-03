@@ -206,17 +206,13 @@ Exportación a HTML/Flutter
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
 ![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
 
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
+
 >> Torneos: En este caso, el punto de interés ha sido la parte de torneo actual de la sección de torneos, donde el color de fondo junto a la imagen han llamado la atención del usuario.
 
 ![Resultado1](P4/2.EyeTracking/ChessKing/Torneos/2.png)
@@ -252,6 +248,8 @@ Resultados y valoración
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
+
+![SUS](P4/3.SUSCuestionario/SUS.png) 
 
 >> Dado que los usuarios que evaluan esta app son personas de una edad >=50, con un poca experiencia en tecnología, los resultados muestran que a pesar de ser una app muy completa, puede resultar complicada de utilizar ya que faltan algunas guías de uso, como podría ser poner flechas en las secciones que se puedan desplazar, o poner una sección de tienda que esté a la vista desde la página principal. 
 
