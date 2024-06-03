@@ -241,9 +241,6 @@ Resultados y valoración
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
 | ID    | Sexo/Edad        | Ocupación    | Experiencia Internet | Plataforma        | Perfil Cubierto               | TEST | SUS Score |
 |-------|-------------------|--------------|----------------------|-------------------|-------------------------------|------|-----------|
 | José  | Hombre, 68 años   | Jubilado     | Baja                 | Teléfono          | Anciano / bailar / felicidad  | B    | 55        |
@@ -256,11 +253,10 @@ Resultados y valoración
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Dado que los usuarios que evaluan esta app son personas de una edad >=50, con un poca experiencia en tecnología, los resultados muestran que a pesar de ser una app muy completa, puede resultar complicada de utilizar ya que faltan algunas guías de uso, como podría ser poner flechas en las secciones que se puedan desplazar, o poner una sección de tienda que esté a la vista desde la página principal. 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+La puntuación media que sale como resultado del cuestionario SUS es de 61,25, que corresponde casi a una C. Esto significa que la usabilidad de la página es correcta pero debería haber ciertas mejoras, sobre todo enfocadas a las personas con menos experiencia en tecnología. 
+ 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
