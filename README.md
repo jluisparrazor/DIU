@@ -216,9 +216,10 @@ Diseño del experimento
 Resultados y valoración 
 -----
 >> Torneos: En este caso, el punto de interés ha sido la parte de torneo actual de la sección de torneos, donde el color de fondo junto a la imagen han llamado la atención del usuario.
->> General y Tienda: En este caso, el punto de interés marcado por el usuario es en la tienda, ya que cada artículo se muestra de forma muy visual. 
+![Resultado1](P4/2.EyeTracking/ChessKing/Torneos/2.png)
 
-![Resultado](2.EyeTracking/ChessKing/GeneralTienda/1.png)  
+>> General y Tienda: En este caso, el punto de interés marcado por el usuario es en la tienda, ya que cada artículo se muestra de forma muy visual. 
+![Resultado2](P4/2.EyeTracking/ChessKing/GeneralTienda/1.png)  
 
 
 
