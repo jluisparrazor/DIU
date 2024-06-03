@@ -253,32 +253,25 @@ Resultados y valoración
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Dado que los usuarios que evaluan esta app son personas de una edad >=50, con un poca experiencia en tecnología, los resultados muestran que a pesar de ser una app muy completa, puede resultar complicada de utilizar ya que faltan algunas guías de uso, como podría ser poner flechas en las secciones que se puedan desplazar, o poner una sección de tienda que esté a la vista desde la página principal. 
+>> Dado que los usuarios que evaluan esta app son personas de una edad >=50, con un poca experiencia en tecnología, los resultados muestran que a pesar de ser una app muy completa, puede resultar complicada de utilizar ya que faltan algunas guías de uso, como podría ser poner flechas en las secciones que se puedan desplazar, o poner una sección de tienda que esté a la vista desde la página principal. 
 
-La puntuación media que sale como resultado del cuestionario SUS es de 61,25, que corresponde casi a una C. Esto significa que la usabilidad de la página es correcta pero debería haber ciertas mejoras, sobre todo enfocadas a las personas con menos experiencia en tecnología. 
+>> La puntuación media que sale como resultado del cuestionario SUS es de 61,25, que corresponde casi a una C. Esto significa que la usabilidad de la página es correcta pero debería haber ciertas mejoras, sobre todo enfocadas a las personas con menos experiencia en tecnología. 
  
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
-
+![Usability Report](P4/4.UsabilityReport/UsabilityReport.pdf)
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+>> En general, la app Chess King presenta una funcionalidad robusta y una oferta completa para los amantes de los juegos de mesa. Sin embargo, la usabilidad actual de la aplicación puede ser desafiante, especialmente para los usuarios mayores o con menos experiencia en tecnología. Los resultados del cuestionario SUS, con una puntuación media de 61.25, sugieren que aunque la app es funcional, necesita mejoras significativas en términos de accesibilidad y facilidad de uso.
+
+>> El análisis de eye tracking muestra que ciertas áreas, como la sección de torneos y la tienda, captan la atención de los usuarios, pero la navegación y la claridad en otras secciones requieren refinamiento. Los usuarios reportaron dificultades para encontrar y utilizar algunas funciones clave debido a la falta de indicaciones visuales y elementos interactivos claros.
+
 
 
 
